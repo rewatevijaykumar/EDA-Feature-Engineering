@@ -9,3 +9,13 @@
 - pie
 - bar
 - observations
+
+2. Black Friday
+- categorical encoding
+  - label
+  - target ordinal
+  - dummy encoding
+ - missing values
+ - visualization
+ - feature scaling
+ - train test split
